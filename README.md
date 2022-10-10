@@ -1,2 +1,2 @@
 # Analise-de-dados-com-Py-e-Pandas
-Repositório criado para o desafio de código Análise de dados com Python e Pandas desenvolvido no bootcamp: Geração Tech Unimed-BH - Ciência de Dados
+Repositório criado para o desafio de código - Análise de dados com Python e Pandas desenvolvido no bootcamp: Geração Tech Unimed-BH - Ciência de Dados, organizado pela dio (Digital Innovation One) e pela Unimed BH
